@@ -1,0 +1,5 @@
+{
+  "name": "ViewPoint AI",
+  "description": "Transform single images into novel camera angles using Gemini AI. Features manual 3D simulated controls, history tracking, and intelligent view reconstruction.",
+  "requestFramePermissions": []
+}
